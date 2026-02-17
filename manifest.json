@@ -1,0 +1,18 @@
+
+{
+  "name": "LuminaCalc AI",
+  "short_name": "LuminaCalc",
+  "description": "Smart AI-powered scientific calculator.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

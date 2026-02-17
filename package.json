@@ -1,0 +1,25 @@
+
+{
+  "name": "luminacalc-ai",
+  "version": "1.0.0",
+  "description": "A high-end, glassmorphic calculator with integrated Gemini AI assistant.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "calculator",
+    "ai",
+    "gemini",
+    "pwa",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@google/genai": "^1.41.0"
+  }
+}
